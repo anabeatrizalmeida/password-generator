@@ -20,7 +20,7 @@
 
 ## Acesso ao projeto
 
-https://anabeatrizalmeida.github.io/ping-pong-game/
+ https://anabeatrizalmeida.github.io/password-generator/
 
 
 ## Desenvolvedora
